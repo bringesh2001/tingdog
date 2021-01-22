@@ -1,0 +1,167 @@
+#title
+ {
+   background-color: #ff4c68;
+    color: white;
+      padding: 3% 5%;
+ }
+
+  h1,h2,h3
+  {
+    font-family: "Montserrat";
+  }
+
+
+   .nav-item
+   {
+
+     font-size: 1rem
+   }
+
+   .navbar-brand
+   {
+     margin-right: 2%;
+   font-family: 'Ubuntu', sans-serif;
+   }
+   .er
+   {
+     padding-left:15%;
+     width: 60%;
+     transform: rotate(25deg);
+     position: absolute;
+     top: 18%;
+     padding-top: 5%;
+
+
+
+
+   }
+   .a
+   {
+     font-size: 3.5rem;
+     padding: 10% 4%;
+     line-height: 1.5;
+   }
+   .dbutton
+   {
+     margin: 0 0.5%;
+   }
+     /*second-container*/
+    #features
+    {  margin: 0 4%  1.5rem;
+     padding: 7% 7%;
+     text-align: center;
+     background-color: white;
+     position: relative;
+     }
+     h3
+     {
+         font-size: 1.5rem;
+     }
+     p
+     {
+       line-height: 2;
+       color: #8f8f8f;
+     }
+     .icon
+     {
+       margin-bottom: 1rem;
+       color: #ef8172;
+     }
+     .icon:hover
+     {
+       color: #ff4c68;
+
+     }
+     .box
+     {
+       padding: 5%;
+     }
+     /*third-container*/
+     #testimonials
+     {
+
+       background-color: #ef8172;
+       text-align: center;
+       color: white;
+
+     }
+     .carousel-item
+     {
+         padding: 7% 15%;
+     }
+
+     .testimg
+     {
+       width: 10%;
+       border-radius: 100%;
+       margin-right: 20px;
+     }
+     .tre
+     {
+       font-size: 3rem;
+       line-height: 1.5;
+     }
+     /*fourth container merged in third container*/
+     #press
+     {
+       background-color:  #ef8172;
+       padding:  0 10%;
+     }
+     .ps
+     {
+       width: 20%;
+       margin: 20px 20px 50px;
+
+     }
+  /*fifth container ( 1st container in pricing)*/
+  .ab
+  {
+    text-align: center;
+    padding: 4% 0;
+
+  }
+   .card
+     {
+       text-align: center;
+     }
+     .de
+     {
+       font-size: 3rem;
+     }
+     @media (max-width:1028px) {
+       #title
+       {
+         text-align: center;
+       }
+       .er
+       {
+         position: static;
+         transform: rotate(0);
+       }
+     }
+     /*last to 2container*/
+     #cta
+     {
+       background-color: #ff4c68;
+       text-align: center;
+       padding:  8% 15%;
+
+     }
+     .th
+     {
+       font-style: "Montserrat";
+       color: white;
+       font-size: 3.5rem;
+       line-height: 2;
+       margin-bottom: 4%;
+     }
+    /* last con*/
+    #footer
+    {
+      text-align: center;
+      padding: 3% 6%;
+    }
+    .sc
+    {
+      padding: 2% 10px;
+    }
